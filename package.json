@@ -1,0 +1,19 @@
+{
+  "name": "@anthonykuang/newrepository",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TestGroupForTest/newrepository.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TestGroupForTest/newrepository/issues"
+  },
+  "homepage": "https://github.com/TestGroupForTest/newrepository#readme"
+}
