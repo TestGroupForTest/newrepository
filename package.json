@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TestGroupForTest/newrepository/issues"
   },
-  "homepage": "https://github.com/TestGroupForTest/newrepository#readme"
+  "homepage": "https://github.com/TestGroupForTest/newrepository#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
